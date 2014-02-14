@@ -13,7 +13,7 @@ Simply add a dependency on `jblotus/phploc-svn` to your project's `composer.json
 
     {
         "require-dev": {
-            "phploc/phploc": "*"
+            "jblotus/phploc-svn": "*"
         }
     }
 
